@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: james.bogosian@gmail.com
     phone: 212 565 2646
-    timezone: America/New York
     linkedin: jamesbogosian
     github: bogosj
 
@@ -22,12 +21,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Over two decades of experience in enabling business through technology. Fourteen years of
+      engineering experience at Google, over a decade in senior engineering leadership positions.
 
 education:
     title: Education
@@ -40,45 +35,105 @@ education:
         time: 1998 - 2002
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Adjunct Professor
+        time: 2023 - Present
+        company: Felician University, Rutherford NJ
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Teaching two courses in the Spring '23 semester.
+            - CS-140: Management Information Systems - This course covers the basic functions of
+              computing systems at the management level of various types of organizations.
+              The course focuses on how to plan, select, and implement a computerized system
+              and how information systems can assist management in making decisions.
+            - CS 290: Theoretical Foundations and Principles of Computer Science - This course
+              covers definitions of sets, operations on sets, formal logic, functions and relations,
+              graphs and trees, graph algorithms, analysis of algorithms, finite automata, regular
+              languages and regular gram mars, property of regular language, context-free languages,
+              and Turing machines.
+      
+      - role: Director of Engineering / Advisor
+        time: 2021 - Present
+        company: Fluxon, San Francisco CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Primarily focused on pre-sales engagements with customers. Additionally advising
+          CTO on the growth of the engineering organization.
+
+      - role: Strategic Advisor / Product Manager
+        time: 2018 - 2021
+        company: Google, NYC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Reporting to the Corporate Engineering VP's chief-of-staff, I worked on various IT
+          skunkworks projects.
+          
+          I then transfered to Youtube where I reported to the director responsible
+          for YouTube's internal business systems. I advised on prioritization and growth
+          of the engineering organization.
+
+          At the start of the COVID-19 pandemic I returned to Corporate Engineering to work
+          on multiple projects related to improving Google employees work-from-home experience.
+          Primary focus was on second-screen assistive devices and the security of the home
+          IT setup experience.
+
+      - role: Software Engineering Manager
+        time: 2015 - 2018
+        company: Google, NYC
+        details: |
+          In the Corporate Engineering group, my team was responsible for many systems and infrastructure critical
+          to Google employee's IT (examples):
+
+            - Techstop: Google's crown jewel of tech support for employees,
+              my team ran the front-end employees would use to get support,
+              the CRM field techs would use to provide support,
+              and tools used to help diagnose and fix problems in advance.
+            - Infrastructure: Google's BeyondCorp inventory pipeline, which drives
+              all access decisions to Google systems.
+            - IT asset management: Every device in the hands of an employee was
+              acquired/managed/retired through my team's systems.
+            - Security: A system for controlling the allowlist/blocklist for binaries running
+              on employee workstations and servers.
+
+          During this period I grew this organization from 15 to 60 engineers in New York and Mountain View CA.
+
+      - role: Software Engineering Manager
+        time: 2010 - 2015
+        company: Google, NYC
+        details: |
+          After the departure of the founding manager of our team, I volunteered to shepherd the team through a
+          transition to a new manager. I never returned to being an engineer as expected...
+          
+          During this time, I grew the organization from a team of seven in New York to a team of 30 spanning New York,
+          San Francisco, London, and Hyderabad.
+
+      - role: Software Engineer / Sales Engineer
+        time: 2007 - 2010
+        company: Google, NYC
+        details: |
+          As one of ten sales engineers spread across the United States, I collaborated
+          with advertising sales teams to help Fortune 500 companies work with Google APIs.
+
+          I then went on to co-found an internal software engineering team to build internal systems
+          to enable our sales teams. These systems automated many complex processes and provided
+          large scale analysis for the sales teams and their clients.
+
+      - role: Software Engineer / Sales Engineer
+        time: 2005 - 2007
+        company: Vorsite, Seattle WA
+        details: |
+          Provided software engineering consulting services for companies using Microsoft SharePoint
+          and Documentum. Partnered with the director of sales on initial client calls, performed
+          client site visits to help install, configure, and customize integration components.
+
+      - role: Software Engineer
+        time: 2002 - 2005
+        company: Merck, Horsham PA
+        details: |
+          Worked on multiple internal projects exploring new technologies for clinical trials,
+          in particular Microsoft SharePoint, tablet computing, mobile devices. Development primarily
+          in .Net / C#.
+
+          Worked on various components of the document management systems responsible for FDA clinical trial
+          submissions. Full stack development with Java backends, integrating with Documentum.
 
 projects:
     title: Volunteering
